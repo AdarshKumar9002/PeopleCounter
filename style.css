@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    margin-top: 2em;
+}
+h3{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+div > button {
+    padding: 1em;
+    background-color: lightblue;
+    color: black;
+    font-weight: 900;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 2em;
+}
+p{
+    text-align: center;
+    margin-top: 2em;
+    font-weight: bolder;
+}
